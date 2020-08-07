@@ -1,0 +1,21 @@
+{
+  "name": "dti-compartilha",
+  "version": "1.0.0",
+  "description": "Criação de APIs com node para apresentar no dti compartilha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "dti",
+    "compartilha",
+    "node"
+  ],
+  "author": "Daniel Quirino",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
